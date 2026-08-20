@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1787227726148,
+      "tag": "0000_medical_princess_powerful",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1787230123883,
+      "tag": "0001_silly_captain_universe",
+      "breakpoints": true
+    }
+  ]
+}
