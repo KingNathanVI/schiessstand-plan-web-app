@@ -13,7 +13,7 @@
     {
       "binding": "DB",
       "database_name": "waidwerk-schiessplan-db",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "140b39fd-c729-4860-8a55-2b7d9ab983ac",
       "migrations_dir": "./drizzle"
     }
   ],
