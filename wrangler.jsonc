@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "waidwerk-schiessplan",
+  "name": "schiessstand-aufsichtsplan-web-app-db",
   "main": "./dist/server/index.js",
   "compatibility_date": "2026-08-20",
   "compatibility_flags": ["nodejs_compat"],
@@ -12,7 +12,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "waidwerk-schiessplan-db",
+      "database_name": "schiessstand-aufsichtsplan-web-app-db",
       "database_id": "140b39fd-c729-4860-8a55-2b7d9ab983ac",
       "migrations_dir": "./drizzle"
     }
